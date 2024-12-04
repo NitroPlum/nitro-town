@@ -1,3 +1,3 @@
-module github.com/NitroPlum/server
+module github.com/NitroPlum/nitro-town/server
 
 go 1.23.4
